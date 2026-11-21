@@ -18,6 +18,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,postgres,mysql,git,github,maven,postman,linux&theme=dark&perline=13" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,postgres,mysql,git,github,maven,postman,linux,docker&theme=dark&perline=14" alt="Tech stack">
 
 </div>
